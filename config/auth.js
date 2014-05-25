@@ -4,8 +4,8 @@
 module.exports = {
 
 	'twitterAuth' : {
-		'consumerKey' 		: 'consume-key-twitter',
-		'consumerSecret' 	: 'consumer-Secret-twitter',
+		'consumerKey' 		: 'bLIbmXTf9V8ScfxE8RWkqAYHW',
+		'consumerSecret' 	: 'l481ShaZ2nsdMSae9xDrkJGO7kQDgBr9vZWHvy2RV2sTs1LMQA',
 		'callbackURL' 		: 'http://localhost:8080/auth/twitter/callback'
 	}
 
